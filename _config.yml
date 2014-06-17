@@ -1,5 +1,5 @@
 # Site settings
 email: your-email@domain.com
 # Build settings
-markdown: kramdown
+markdown: redcarpet
 permalink: pretty

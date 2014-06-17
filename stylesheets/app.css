@@ -7993,3 +7993,15 @@ th.hide-for-touch {
 .blogpost {
   padding-top: 5%;
 }
+
+/* line 11, ../scss/_custom.scss */
+.footer {
+  background: #383838;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+/* line 17, ../scss/_custom.scss */
+.footer p {
+  color: #f7f7f7;
+}
