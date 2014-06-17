@@ -3,3 +3,4 @@ email: your-email@domain.com
 # Build settings
 markdown: redcarpet
 permalink: pretty
+baseurl: /FoundationJekyll

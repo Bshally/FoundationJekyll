@@ -7987,21 +7987,23 @@ th.hide-for-touch {
 /* line 3, ../scss/_custom.scss */
 .main {
   padding-top: 5%;
+  padding-bottom: 5%;
 }
 
-/* line 7, ../scss/_custom.scss */
+/* line 8, ../scss/_custom.scss */
 .blogpost {
   padding-top: 5%;
+  padding-bottom: 5%;
 }
 
-/* line 11, ../scss/_custom.scss */
+/* line 13, ../scss/_custom.scss */
 .footer {
   background: #383838;
   padding-top: 10px;
   padding-bottom: 10px;
 }
 
-/* line 17, ../scss/_custom.scss */
+/* line 19, ../scss/_custom.scss */
 .footer p {
   color: #f7f7f7;
 }
