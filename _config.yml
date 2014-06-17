@@ -1,5 +1,4 @@
-name: My Name
 markdown: redcarpet
 permalink: pretty
 highlighter: true
-baseurl: /foundationjekyll
+baseurl: /FoundationJekyll
