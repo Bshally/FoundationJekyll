@@ -1,6 +1,5 @@
-# Site settings
-email: your-email@domain.com
-# Build settings
+name: My Name
 markdown: redcarpet
 permalink: pretty
+highlighter: true
 baseurl: /FoundationJekyll
