@@ -57,7 +57,7 @@ compass watch
 ````
 jekyll serve --baseurl '' --watch
 ````
-You can run both compass and jekyll at the same time in seperate terminals to auto compile your changes. Depending how you host your Jekyll page, you may need to adjust or remove the "baseurl" option in "\_config.yml". For example, if you host your page for your main GitHub page either your own domain or ```http://username.github.io```, you should remove the "baseurl" option and the baseurl tags in the pages. If you are hosting a project page (```http://username.github.io/projectname```), you need to configure the "baseurl" option to your project name. See the documentation here: [http://jekyllrb.com/docs/github-pages/](http://jekyllrb.com/docs/github-pages/)
+You can run both compass and jekyll at the same time in seperate terminals to auto compile your changes. Depending how you host your Jekyll page, you may need to adjust or remove the "baseurl" option in "\_config.yml". For example, if you host your page as your main GitHub page with either your own domain or ```http://username.github.io```, you should remove the "baseurl" option and the baseurl tags in the pages. If you are hosting a project page (```http://username.github.io/projectname```), you need to configure the "baseurl" option to your project name. See the documentation here: [http://jekyllrb.com/docs/github-pages/](http://jekyllrb.com/docs/github-pages/)
 
 ## Demo
 
