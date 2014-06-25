@@ -10,6 +10,7 @@ You will need to have the following installed:
 * Git
 * NodeJS
 * Jekyll ruby gem
+* SASS ruby gem
 * Compass ruby gem
 
 I've written guides on setting up Foundation and Jekyll:
